@@ -1,0 +1,24 @@
+.container{
+  padding: 0 0 1em 0;
+  margin: 0.5em;
+  width: 282px;
+  background-color:  var(--cinza);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.capa{
+ width: 100%;
+}
+.container h1 ,favoritar{
+  padding: 0 1em;
+}
+.favoritar {
+  width: 25px;
+}
+.link {
+  text-decoration: none;
+  color: var(--preto);
+  text-align: left;
+}
